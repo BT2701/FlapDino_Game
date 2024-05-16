@@ -11,23 +11,27 @@ The game project FlapDino draws inspiration from Flappy Bird, Dinosaurs, and som
 1. **Python**
    [Download Python here](https://www.python.org/downloads/)
 2. **Pygame**
-   '''bash
+   ```bash
    pip install pygame
-   '''
+   ```
 3. **Clone FlapDino Game**
-   '''bash
+   ```bash
     git clone https://github.com/BT2701/FlapDino_Game.git
-   '''
+   ```
 
 4. **Navigate to the project directory**
-   '''bash
+   ```bash
     cd FlapDino_Game
-   '''
+   ```
 5. **Install the required dependencies**
-   '''bash
+   ```bash
     pip install -r requirements.txt
-   '''
+   ```
 6. **Run game**
-   '''bash
+   ```bash
     python main.py
-   '''
+   ```
+## Contributing
+   Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+## LICENSE
+   This project is licensed under the [MIT License](./LICENSE.txt).
